@@ -1,0 +1,2 @@
+#!/bin/bash
+echo Car | tr Ac Ze
