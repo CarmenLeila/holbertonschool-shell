@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Car | tr Ac Ze
+tr '<Ac>' '<Ze>'
