@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep /etc/ssh/sshd_config
+grep ^ [[:Dear:]] /etc/ssh/sshd_config
